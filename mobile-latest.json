@@ -1,10 +1,10 @@
 {
-    "latest_version_code":  5,
-    "latest_version_name":  "0.1.5",
+    "latest_version_code":  6,
+    "latest_version_name":  "0.1.6",
     "min_version_code":  5,
     "force_update":  false,
     "download_url":  "https://raw.githubusercontent.com/teemshn/QuickTodo-Releases/main/apk/QuickTodo-latest.apk",
     "web_url":  "https://teemshn.github.io/QuickTodo-Releases/",
-    "sha256":  "468E1F3E5E5DA0C4AFF93DEFB995C7FD954BBF435FF6C189AC01C58F5EA95E7F",
-    "update_message":  "새 버전이 있습니다. 업데이트를 누르면 QuickTodo가 직접 다운로드한 뒤 설치 화면을 엽니다."
+    "sha256":  "731C307BBDB1012418D0B7F40D1A85920205F13EA0342C5553126FE0A22A2BDB",
+    "update_message":  "위젯 기본 사용자가 이 기기의 마지막 앱 사용자와 자동으로 맞춰집니다."
 }
