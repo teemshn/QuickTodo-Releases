@@ -1,10 +1,10 @@
 {
-    "latest_version_code":  6,
-    "latest_version_name":  "0.1.6",
+    "latest_version_code":  7,
+    "latest_version_name":  "0.1.7",
     "min_version_code":  5,
     "force_update":  false,
     "download_url":  "https://raw.githubusercontent.com/teemshn/QuickTodo-Releases/main/apk/QuickTodo-latest.apk",
     "web_url":  "https://teemshn.github.io/QuickTodo-Releases/",
-    "sha256":  "731C307BBDB1012418D0B7F40D1A85920205F13EA0342C5553126FE0A22A2BDB",
-    "update_message":  "위젯 기본 사용자가 이 기기의 마지막 앱 사용자와 자동으로 맞춰집니다."
+    "sha256":  "609A5462F4802D4655BCE5B878E1F00818AECA3B2B5941F2075D599DF9B92201",
+    "update_message":  "업무 수정, 완료사진, 마감일, 완료목록과 업데이트 안정화를 반영했습니다."
 }
